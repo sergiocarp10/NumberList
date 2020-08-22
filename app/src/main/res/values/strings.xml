@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Agenda de Números</string>
+    <string name="input_num">Ingrese el número</string>
+    <string name="add_successful">Añadido con éxito</string>
+    <string name="delete_successful">Eliminado con éxito</string>
+    <string name="delete_failure">No se pudo eliminar el número</string>
+    <string name="delete_from">Eliminar número del %1$d</string>
+    <string name="add_to">Agregar número para el %1$d</string>
+    <string name="ask_for_delete">¿Querés quitar el %1$d de este grupo?</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="description">Elija un número de la izquierda para ver los números que están relacionados con el mismo. Tocá el (+) para añadir nuevos, y mantené presionado para eliminar</string>
+</resources>
